@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cmake_testapp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/eugene/pw_game_of_life/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/eugene/pw_game_of_life/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/eugene/pw_game_of_life/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cmake_testapp">
+				<Option output="/home/eugene/pw_game_of_life/cmake-build-debug/cmake_testapp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eugene/pw_game_of_life/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 cmake_testapp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cmake_testapp/fast">
+				<Option output="/home/eugene/pw_game_of_life/cmake-build-debug/cmake_testapp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eugene/pw_game_of_life/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 cmake_testapp/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eugene/pw_game_of_life/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/eugene/pw_game_of_life/src/alloc.c">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/alloc.h">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/evolve.c">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/evolve.h">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/generator.c">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/generator.h">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/main.c">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/nieghbors.c">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/nieghbors.h">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/struct.h">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/tester.c">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/src/tester.h">
+			<Option target="cmake_testapp"/>
+		</Unit>
+		<Unit filename="/home/eugene/pw_game_of_life/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
