@@ -7,6 +7,6 @@ autkom: $(deps)
 main.o: evolve.h tester.h
 alloc.o: alloc.h
 evolve.o: evolve.h
+tester.o: tester.h
 generator.o: generator.h
 nieghbors.o: nieghbors.h
-tester.o: tester.h
