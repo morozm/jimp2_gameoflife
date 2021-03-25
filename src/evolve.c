@@ -15,11 +15,12 @@ int evolve(map* cur) {
             }
         }
     }
-    int k = 0;
+    int k = 0; //k = 0 - nothing changed
+    // checking for changes in the field
     for (int i = 0; i < cur->n; i++) {
         for (int j = 0; j < cur->m; j++) {
             if (new[i][j].live != cur->arr[i][j].live) {
-                k = 1; //error print
+                k = 1; //k = 1 - there were some changes on the field
                 break;
             }
         }

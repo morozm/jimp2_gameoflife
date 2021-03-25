@@ -1,8 +1,8 @@
 #include "generator.h"
 
 void generate(map* cur) {
+    //generate a field of size (0; 50] x (0x50] and fill it with 0 and 1 with a chance of 0 - 75% 1 - 25%
     int x = rand();
-    int y;
     cur->n = x % 50 + 1;
     x = rand();
     cur->m = x % 50 + 1;
