@@ -1,1 +1,3 @@
-/usr/bin/cc -g   CMakeFiles/cmake_testapp.dir/src/main.c.o CMakeFiles/cmake_testapp.dir/src/nieghbors.c.o CMakeFiles/cmake_testapp.dir/src/alloc.c.o CMakeFiles/cmake_testapp.dir/src/evolve.c.o CMakeFiles/cmake_testapp.dir/src/generator.c.o CMakeFiles/cmake_testapp.dir/src/tester.c.o  -o cmake_testapp 
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmake_testapp.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\cmake_testapp.dir/objects.a @CMakeFiles\cmake_testapp.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\cmake_testapp.dir/objects.a -Wl,--no-whole-archive  -o cmake_testapp.exe -Wl,--out-implib,libcmake_testapp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmake_testapp.dir\linklibs.rsp

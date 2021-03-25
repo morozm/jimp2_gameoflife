@@ -1,0 +1,4 @@
+#ifndef CMAKE_TESTAPP_GET_TO_GIF_H
+#define CMAKE_TESTAPP_GET_TO_GIF_H
+
+#endif

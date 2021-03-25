@@ -1,10 +1,5 @@
-#include <stdio.h>
-#include "evolve.h"
-#include "tester.h"
+#include "game.h"
 
-void game() {
-    
-}
 int main() {
     srand(time(NULL));
     game();
