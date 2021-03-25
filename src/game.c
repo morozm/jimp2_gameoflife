@@ -8,7 +8,7 @@ void game() {
     if (operation == 1) {
         printf("wprowadz liczbe wierszy i kolumn: \n");
         scanf("%d%d", &pole.n, &pole.m);
-        printf("wprowadz pozycje początkowa komurek:\n");
+        printf("wprowadz pozycje poczatkowa komorek:\n");
         pole.arr = get_memory(pole.arr, pole.n, pole.m);
         for (int i = 0; i < pole.n; i++) {
             for (int j = 0; j < pole.m; j++) {

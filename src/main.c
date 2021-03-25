@@ -2,6 +2,6 @@
 
 int main() {
     srand(time(NULL));
-    test();
+    game();
     return 0;
 }

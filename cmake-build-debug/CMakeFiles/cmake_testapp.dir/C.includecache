@@ -20,6 +20,28 @@ C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/alloc.h
 nieghbors.h
 C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/nieghbors.h
 
+C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/game.c
+game.h
+C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/game.h
+
+C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/game.h
+generator.h
+C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/generator.h
+solver.h
+C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/solver.h
+
+C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/generator.h
+time.h
+-
+struct.h
+C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/struct.h
+stdlib.h
+C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/stdlib.h
+alloc.h
+C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/alloc.h
+stdio.h
+-
+
 C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/gifenc.h
 stdint.h
 -
@@ -27,10 +49,6 @@ stdint.h
 C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/nieghbors.h
 struct.h
 C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/struct.h
-
-C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/solver.c
-solver.h
-C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/solver.h
 
 C:/Users/OMEN/CLionProjects/jimp2_gameoflife/src/solver.h
 struct.h
